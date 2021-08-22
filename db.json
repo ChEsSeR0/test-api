@@ -1,0 +1,42 @@
+{
+        "products": [
+        {
+        title: 'Какой-то там продукт',
+        price: '999 ₽',
+        rating: 5,
+        specifications: [
+          {
+            id: 1, title: 'Цвет', variants: [
+              { id: 1, title: 'Белый' },
+              { id: 2, title: 'Синий' },
+              { id: 3, title: 'Красный' }
+            ]
+          }
+        ],
+        count: 1,
+        delivery: [
+          { id: 1, title: 'Какой-то там почтой', from: 'Какой-то там адрес', price: 0 },
+          { id: 2, title: 'Каким-то там курьером', from: 'Какой-то там адрес', price: 100 }
+        ],
+        seller: 'Какой-то там продавец',
+        details: [
+          { title: 'Состав', content: 'Какой-то там состав' },
+          { title: 'Описание', content: 'Купите, пожалуйста, я же не зря интернет-магазин создавал :3' }
+        ],
+        images: [
+          { id: 1, url: 'https://picsum.photos/290/351' },
+          { id: 2, url: 'https://picsum.photos/290/352' },
+          { id: 3, url: 'https://picsum.photos/290/353' },
+          { id: 4, url: 'https://picsum.photos/290/354' },
+          { id: 5, url: 'https://picsum.photos/290/355' },
+        ]
+      }
+      ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
