@@ -1,146 +1,155 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "title": "СЮРПРИЗ ПО ПРОМОКОДУ, Смартфон Xiaomi POCO M3 RU 128ГБ [РОСТЕСТ, официальная гарантия, доставка от 2 дней]",
-      "price": "14 246,10 ₽",
-      "rating": 5,
-      "specifications": [
-          {
-              "id": 1,
-              "title": "Цвет",
-              "variants":[
-                {
-                  "id": 1,
-                  "title": "Белый"
-                },
-                {
-                  "id": 2,
-                  "title": "Синий"
-                },
-                {
-                  "id": 3,
-                  "title": "Красный"
-                }
-            ]
-            
-        }
-      ],
-      "count": 1,
-      "delivery": [{
-          "id": 1,
-          "title": "Tmall",
-          "from": "Russian Federation",
-          "price": "0 ₽"
-        },
-        {
-          "id": 2,
-          "title": "Почта России",
-          "from": "Russian Federation",
-          "price": "1000 ₽"
-        }
-      ],
-      "seller": "POCO Russian Official Store",
-      "details": [{
-        "title": "Состав",
-        "content": "Название бренда: POCOПоддерживаемая мощность ЗУ: 22,5 ВтСенсорный экран: ДаРазмер экрана: 6,53''Тип батареи: НесъёмныйВстроенная память: 128 ГБПроисхождение: КитайОперационная система: AndroidБиометрические технологии: Сканер отпечатка пальца боковойБиометрические технологии: Распознавание лицаСтандарты сотовой связи: 2G (GSM)Стандарты сотовой связи: 3G (WCDMA)Стандарты сотовой связи: 4G (LTE)Марка процессора: QualcommКоличество фронтальных камер: 1Версия Bluetooth: 5.0Разрешение основных камер: 48 МПЕмкость батареи (мА*ч): 6000Поддержка быстрой зарядки: Адаптивная быстрая зарядкаNFC: noКарта памяти: Совмещённый слот (карта памяти или SIM)Язык: РусскийРазрешение дисплея: 2340x1080Оперативная память: 4 ГБКоличество основных камер: 3Сертификация: EACТип интерфейса для зарядного устройства: TYPE-CРазрешение фронтальной камеры: 8 МППоддержка беспроводной зарядки: noДизайн: РаскладушкаКоличество SIM-карт: 2Порт для наушников 3,5 мм: ДаГабариты: 162,3 мм * 77,3 мм * 9,6 ммВес: 198 г"
-      }],
-      "images": [{
-          "id": 1,
-          "url": "https://ae04.alicdn.com/kf/H0856037e3b6140a8a500f500609f9e4b1/Xiaomi-POCO-M3-RU-128.jpg"
-        },
-        {
-          "id": 2,
-          "url": "https://ae04.alicdn.com/kf/H10d5cf5815594271b6da095e8a5845b01/Xiaomi-POCO-M3-RU-128.png"
-        },
-        {
-          "id": 3,
-          "url": "https://ae04.alicdn.com/kf/Hadc0aec755eb441cb0fe9aeaa98d6223Z/Xiaomi-POCO-M3-RU-128.png"
-        },
-        {
-          "id": 4,
-          "url": "https://ae04.alicdn.com/kf/H84a90eb2529a496d8fb9e3cc9e2aa2b60/Xiaomi-POCO-M3-RU-128.png"
-        },
-        {
-          "id": 5,
-          "url": "https://ae04.alicdn.com/kf/H9cad52bc28a84f6ea47b376bd1c15d7dA/Xiaomi-POCO-M3-RU-128.png"
-        },
-        {
-          "id": 6,
-          "url": "https://ae04.alicdn.com/kf/H01d47434707449bfab0177a62df8c8a3o/Xiaomi-POCO-M3-RU-128.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1,
-      "title": "Какой-то там продукт",
-      "price": "999 ₽",
-      "rating": 5,
-      "specifications": [{
-          "id": 1,
-          "title": "Белый"
-        },
-        {
-          "id": 2,
-          "title": "Синий"
-        },
-        {
-          "id": 3,
-          "title": "Красный"
-        }
-      ],
-      "count": 1,
-      "delivery": [{
-          "id": 1,
-          "title": "Какой-то там почтой",
-          "from": "Какой-то там адрес",
-          "price": 0
-        },
-        {
-          "id": 1,
-          "title": "Каким-то там курьером",
-          "from": "Какой-то там адрес",
-          "price": 100
-        }
-      ],
-      "seller": "Какой-то там продавец",
-      "details": [{
-          "title": "Состав",
-          "content": "Какой-то там состав"
-        },
-        {
-          "title": "Описание",
-          "content": "Купите, пожалуйста, я же не зря интернет-магазин создавал :3"
-        }
-      ],
-      "images": [{
-          "id": 1,
-          "url": "https://picsum.photos/290/351"
-        },
-        {
-          "id": 2,
-          "url": "https://picsum.photos/290/352"
-        },
-        {
-          "id": 3,
-          "url": "https://picsum.photos/290/353"
-        },
-        {
-          "id": 4,
-          "url": "https://picsum.photos/290/354"
-        },
-        {
-          "id": 5,
-          "url": "https://picsum.photos/290/355"
-        }
-      ]
-    }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"products": [{
+			"id": 1,
+			"title": "СЮРПРИЗ ПО ПРОМОКОДУ, Смартфон Xiaomi POCO M3 RU 128ГБ [РОСТЕСТ, официальная гарантия, доставка от 2 дней]",
+			"price": "14 246,10 ₽",
+			"rating": 5,
+			"specifications": [{
+				"id": 1,
+				"title": "Цвет",
+				"variants": [{
+						"id": 1,
+						"title": "Белый"
+					},
+					{
+						"id": 2,
+						"title": "Синий"
+					},
+					{
+						"id": 3,
+						"title": "Красный"
+					}
+				]
+
+			}],
+			"count": 1,
+			"delivery": [{
+					"id": 1,
+					"title": "Tmall",
+					"from": [
+						"Russian Federation",
+						"USA"
+					],
+					"price": "0 ₽"
+				},
+				{
+					"id": 2,
+					"title": "Почта России",
+					"from": [
+						"Russian Federation",
+						"China"
+					],
+					"price": "1000 ₽"
+				}
+			],
+			"seller": "POCO Russian Official Store",
+			"details": [{
+				"title": "Состав",
+				"content": "Название бренда: POCOПоддерживаемая мощность ЗУ: 22,5 ВтСенсорный экран: ДаРазмер экрана: 6,53''Тип батареи: НесъёмныйВстроенная память: 128 ГБПроисхождение: КитайОперационная система: AndroidБиометрические технологии: Сканер отпечатка пальца боковойБиометрические технологии: Распознавание лицаСтандарты сотовой связи: 2G (GSM)Стандарты сотовой связи: 3G (WCDMA)Стандарты сотовой связи: 4G (LTE)Марка процессора: QualcommКоличество фронтальных камер: 1Версия Bluetooth: 5.0Разрешение основных камер: 48 МПЕмкость батареи (мА*ч): 6000Поддержка быстрой зарядки: Адаптивная быстрая зарядкаNFC: noКарта памяти: Совмещённый слот (карта памяти или SIM)Язык: РусскийРазрешение дисплея: 2340x1080Оперативная память: 4 ГБКоличество основных камер: 3Сертификация: EACТип интерфейса для зарядного устройства: TYPE-CРазрешение фронтальной камеры: 8 МППоддержка беспроводной зарядки: noДизайн: РаскладушкаКоличество SIM-карт: 2Порт для наушников 3,5 мм: ДаГабариты: 162,3 мм * 77,3 мм * 9,6 ммВес: 198 г"
+			}],
+			"images": [{
+					"id": 1,
+					"url": "https://ae04.alicdn.com/kf/H0856037e3b6140a8a500f500609f9e4b1/Xiaomi-POCO-M3-RU-128.jpg"
+				},
+				{
+					"id": 2,
+					"url": "https://ae04.alicdn.com/kf/H10d5cf5815594271b6da095e8a5845b01/Xiaomi-POCO-M3-RU-128.png"
+				},
+				{
+					"id": 3,
+					"url": "https://ae04.alicdn.com/kf/Hadc0aec755eb441cb0fe9aeaa98d6223Z/Xiaomi-POCO-M3-RU-128.png"
+				},
+				{
+					"id": 4,
+					"url": "https://ae04.alicdn.com/kf/H84a90eb2529a496d8fb9e3cc9e2aa2b60/Xiaomi-POCO-M3-RU-128.png"
+				},
+				{
+					"id": 5,
+					"url": "https://ae04.alicdn.com/kf/H9cad52bc28a84f6ea47b376bd1c15d7dA/Xiaomi-POCO-M3-RU-128.png"
+				},
+				{
+					"id": 6,
+					"url": "https://ae04.alicdn.com/kf/H01d47434707449bfab0177a62df8c8a3o/Xiaomi-POCO-M3-RU-128.jpg"
+				}
+			]
+		},
+		{
+			"id": 1,
+			"title": "Какой-то там продукт",
+			"price": "999 ₽",
+			"rating": 5,
+			"specifications": [{
+					"id": 1,
+					"title": "Белый"
+				},
+				{
+					"id": 2,
+					"title": "Синий"
+				},
+				{
+					"id": 3,
+					"title": "Красный"
+				}
+			],
+			"count": 1,
+			"delivery": [{
+					"id": 1,
+					"title": "Какой-то там почтой",
+					"from": "Какой-то там адрес",
+					"price": 0
+				},
+				{
+					"id": 1,
+					"title": "Каким-то там курьером",
+					"from": "Какой-то там адрес",
+					"price": 100
+				}
+			],
+			"seller": "Какой-то там продавец",
+			"details": [{
+					"title": "Состав",
+					"content": "Какой-то там состав"
+				},
+				{
+					"title": "Описание",
+					"content": "Купите, пожалуйста, я же не зря интернет-магазин создавал :3"
+				}
+			],
+			"images": [{
+					"id": 1,
+					"url": "https://picsum.photos/290/351"
+				},
+				{
+					"id": 2,
+					"url": "https://picsum.photos/290/352"
+				},
+				{
+					"id": 3,
+					"url": "https://picsum.photos/290/353"
+				},
+				{
+					"id": 4,
+					"url": "https://picsum.photos/290/354"
+				},
+				{
+					"id": 5,
+					"url": "https://picsum.photos/290/355"
+				}
+			]
+		}
+	],
+	"comments": [{
+			"id": 1,
+			"body": "some comment",
+			"postId": 1
+		},
+		{
+			"id": 2,
+			"body": "some comment",
+			"postId": 1
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	}
 }
