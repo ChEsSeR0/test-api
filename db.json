@@ -26,18 +26,28 @@
 			"delivery": [{
 					"id": 1,
 					"title": "Tmall",
-					"from": [
-						"Russian Federation",
-						"USA"
+					"from": [{
+							"id": 1,
+							"title": "Russian Federation"
+						},
+						{
+							"id": 2,
+							"title": "USA"
+						}
 					],
 					"price": "0 ₽"
 				},
 				{
 					"id": 2,
 					"title": "Почта России",
-					"from": [
-						"Russian Federation",
-						"China"
+					"from": [{
+							"id": 1,
+							"title": "Russian Federation"
+						},
+						{
+							"id": 3,
+							"title": "China"
+						}
 					],
 					"price": "1000 ₽"
 				}
