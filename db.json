@@ -22,7 +22,6 @@
 				]
 
 			}],
-			"count": 1,
 			"delivery": [{
 					"id": 1,
 					"title": "Tmall",
@@ -101,7 +100,6 @@
 					"title": "Красный"
 				}
 			],
-			"count": 1,
 			"delivery": [{
 					"id": 1,
 					"title": "Какой-то там почтой",
