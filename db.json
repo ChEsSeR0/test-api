@@ -22,35 +22,10 @@
 				]
 
 			}],
-			"delivery": [{
-					"id": 1,
-					"title": "Tmall",
-					"from": [
-						{
-							"id": 2,
-							"title": "USA"
-						},
-						{
-							"id": 1,
-							"title": "Russian Federation"
-						}
-					],
-					"price": "0 ₽"
-				},
+			"delivery": [
 				{
-					"id": 2,
+					"id": 1,
 					"title": "Почта России",
-					"from": [
-						{
-							"id": 3,
-							"title": "China"
-						},
-						{
-							"id": 1,
-							"title": "Russian Federation"
-						}
-					],
-					"price": "1000 ₽"
 				}
 			],
 			"seller": "POCO Russian Official Store",
