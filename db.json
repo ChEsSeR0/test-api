@@ -5,29 +5,46 @@
 			"price": "14 246,10 ₽",
 			"rating": 5,
 			"specifications": [{
-				"id": 1,
-				"title": "Цвет",
-				"variants": [{
-						"id": 1,
-						"title": "Белый"
-					},
-					{
-						"id": 2,
-						"title": "Синий"
-					},
-					{
-						"id": 3,
-						"title": "Красный"
-					}
-				]
-
-			}],
-			"delivery": [
-				{
 					"id": 1,
-					"title": "Почта России"
+					"title": "Цвет",
+					"variants": [{
+							"id": 1,
+							"title": "Белый"
+						},
+						{
+							"id": 2,
+							"title": "Синий"
+						},
+						{
+							"id": 3,
+							"title": "Красный"
+						}
+					]
+
+				},
+				{
+					"id": 2,
+					"title": "Конфигурация",
+					"variants": [{
+							"id": 1,
+							"title": "256гб + 8гб"
+						},
+						{
+							"id": 2,
+							"title": "128гб + 4гб"
+						},
+						{
+							"id": 3,
+							"title": "64гб + 3гб"
+						}
+					]
+
 				}
 			],
+			"delivery": [{
+				"id": 1,
+				"title": "Почта России"
+			}],
 			"seller": "POCO Russian Official Store",
 			"details": [{
 				"title": "Состав",
